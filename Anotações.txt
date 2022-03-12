@@ -1,0 +1,11 @@
+.criei novo arquivo na pasta local
+
+.através do git bash --- git status reconhece que há este novo arquivo que não consta no repositório-nuvem
+
+.git add . "ou" -A --- para informar que quero incluir este novo arquivo no repositório
+
+.ele entende que eu quero que este arquivo novo seja considerado
+
+(ainda não foi adicionado ao repositório) - apenas adicionamos ao nosso controle de versão local
+
+.git commit -m "Faça seu comentário aqui" - comentários coerentes
