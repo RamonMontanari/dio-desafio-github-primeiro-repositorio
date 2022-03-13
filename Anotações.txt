@@ -8,4 +8,4 @@
 
 (ainda não foi adicionado ao repositório) - apenas adicionamos ao nosso controle de versão local
 
-.git commit -m "Faça seu comentário aqui" - comentários coerentes
+.git commit -m "Faça seu comentário aqui" - comentários coerentes.
