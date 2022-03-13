@@ -1,3 +1,5 @@
+*Dentro da PASTA/NUVEM/CLONE: "cd" mais o endereço da pasta, entra na pasta:
+
 .criei novo arquivo na pasta local
 
 .através do git bash --- git status reconhece que há este novo arquivo que não consta no repositório-nuvem
@@ -8,4 +10,6 @@
 
 (ainda não foi adicionado ao repositório) - apenas adicionamos ao nosso controle de versão local
 
-.git commit -m "Faça seu comentário aqui" - comentários coerentes.
+.git commit -m "Faça seu comentário aqui" - comentários coerentes
+
+.git push origin main
